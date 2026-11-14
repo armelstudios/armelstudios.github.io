@@ -1,5 +1,1 @@
-# app-ads.txt for Armel Studios (covers every Armel Studios game)
-# Replace pub-0000000000000000 with your AdMob publisher ID
-# (AdMob > Settings > Account information), then delete the "# " at the start
-# of the line below so it becomes active.
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-1877628128293103, DIRECT, f08c47fec0942fa0
